@@ -8,3 +8,4 @@
 JavaToCpp.iml
 out/production/JavaToCpp/me/erick/Main.class
 .idea/workspace.xml
+output.cpp
